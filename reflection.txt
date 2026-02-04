@@ -1,0 +1,6 @@
+Based on this lab, why is using branches a powerful and safe way for software engineers to collaborate on a single project? What simple problems might it prevent?
+
+Branches are a powerful and safe way for software engineers to collaborate on a single project because it allows them to work in their own separate environments.
+Each software engineer can work on their feature of the project in their own branch and be able to upload everything to a main branch which hosts all of their code.
+Merging each other's code can cause conflicts but that's why Git and Github are powerful.
+Git and Github detects those conflicts and lets the software engineers know which portion of the code to fix. 
